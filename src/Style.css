@@ -1,0 +1,29 @@
+.upperContainer {
+  /* border: 1px solid black; */
+  margin-bottom: 10px;
+}
+
+.upperContainer button {
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.lowerContainer input {
+  border: 1px solid black;
+  width: 15vw;
+  height: 05vh;
+  border-radius: 10px;
+  font-size: 1rem;
+}
+
+.lowerContainer button {
+  border-radius: 10px;
+  padding: 10px;
+  margin: 5px;
+}
+
+.lowerContainer select {
+  border-radius: 10px;
+  padding: 10px;
+  margin: 5px;
+}
